@@ -154,9 +154,8 @@ def make_product_id(node: dict[str, Any], url: str) -> str:
     slug = urlparse(url).path.rstrip("/").split("/")[-1]
     return (slug or hashlib.sha1(url.encode("utf-8")).hexdigest())[:50]
 
-
-def extract_product(page_url: str, page_html: str) -> Product | None:
-    soup = BeautifulSoup(page_html, "html.parser")
+def extract_product(page_url: str, page_html: bytes) -> Product | None:
+    soup = BeautifulSoup(page_html, "html.parser", from_encoding="utf-8")
     canonical_tag = soup.find("link", rel="canonical")
     canonical = urljoin(page_url, canonical_tag.get("href")) if canonical_tag else page_url
 
@@ -322,7 +321,7 @@ def main() -> int:
         try:
             response = session.get(url, timeout=30)
             response.raise_for_status()
-            product = extract_product(response.url, response.text)
+            product = extract_product(response.url, response.content)
             if product:
                 products.append(product)
                 logging.info("[%d/%d] PREKĖ: %s", index, len(page_urls), product.title)
