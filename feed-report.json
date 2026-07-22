@@ -1,6 +1,8 @@
 {
   "sitemap_urls": 874,
-  "products_written": 798,
-  "failed_urls": [],
+  "products_written": 797,
+  "failed_urls": [
+    "https://vaivora.shop/dviguba-kaitlente-esperanza-cotopaxi-2000w-ekh010k"
+  ],
   "output": "public/products.xml"
 }
