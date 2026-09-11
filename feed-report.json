@@ -1,6 +1,8 @@
 {
   "sitemap_urls": 883,
-  "products_written": 807,
-  "failed_urls": [],
+  "products_written": 806,
+  "failed_urls": [
+    "https://vaivora.shop/mediniai-maisto-iesmeliai-30cm-45vnt"
+  ],
   "output": "public/products.xml"
 }
