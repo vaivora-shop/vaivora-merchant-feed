@@ -1,8 +1,6 @@
 {
   "sitemap_urls": 940,
-  "products_written": 857,
-  "failed_urls": [
-    "https://vaivora.shop/tactic-zaidimas-lazinkimes-lietuviu-kalba"
-  ],
+  "products_written": 858,
+  "failed_urls": [],
   "output": "public/products.xml"
 }
