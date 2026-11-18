@@ -1,8 +1,6 @@
 {
   "sitemap_urls": 942,
-  "products_written": 858,
-  "failed_urls": [
-    "https://vaivora.shop/ziedine-augalu-atrama-90cm75cm60cm"
-  ],
+  "products_written": 859,
+  "failed_urls": [],
   "output": "public/products.xml"
 }
