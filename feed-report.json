@@ -1,6 +1,8 @@
 {
-  "sitemap_urls": 942,
-  "products_written": 859,
-  "failed_urls": [],
+  "sitemap_urls": 943,
+  "products_written": 860,
+  "failed_urls": [
+    "https://vaivora.shop/lauko-prekes"
+  ],
   "output": "public/products.xml"
 }
