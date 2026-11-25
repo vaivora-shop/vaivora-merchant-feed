@@ -8359,7 +8359,7 @@
       <description>6 puodelių ir lėkštučių rinkinys RAPHAEL iš WHITE kolekcijos. Stalo reikmenys pagaminti iš aukštos kokybės sustiprinto patvaraus balto porceliano su subtiliu blizgesiu, pasižyminčio išskirtiniu patvarumu.Klasikinė apvali forma, dekoruota subtiliai reljefinėmis vertikaliomis juostelėmis, leidžia s...</description>
       <link>https://vaivora.shop/6-puodeliai-su-lekstutemis-raphael</link>
       <g:image_link>https://cdn.zyrosite.com/cdn-ecommerce/store_01KCA8JHSZQX53KW2ZPYV0J8DD/assets/f14ba60c-fde4-48e5-acaf-cf3a059e0c38.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>36.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
@@ -9461,6 +9461,28 @@
       <g:image_link>https://cdn.zyrosite.com/cdn-ecommerce/store_01KCA8JHSZQX53KW2ZPYV0J8DD/assets/057fdee6-d0f4-4b2a-9bac-d2a23c1e4183.png</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>36.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>stovas-kaledu-eglutei-iki-2-m-zvaigzde</g:id>
+      <title>Stovas Kalėdų eglutei iki 2 m Žvaigždė</title>
+      <description>🎄 Kalėdų eglutės stovas „STAR“ Kompaktiškas ir stabilus stovas su integruota vandens talpykla. Jis leidžia lengvai įstatyti vidutinio dydžio eglutę, o dėl itin paprasto surinkimo yra labai rekomenduojamas pasirinkimas.Stovas užtikrina eglutės stabilumą net ir tada, kai ji gausiai papuošta dekora...</description>
+      <link>https://vaivora.shop/stovas-kaledu-eglutei-iki-2-m-zvaigzde</link>
+      <g:image_link>https://cdn.zyrosite.com/cdn-ecommerce/store_01KCA8JHSZQX53KW2ZPYV0J8DD/assets/bb3dc808-bb1e-4232-9404-5d0638b4f5f1.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>apvalus-plastikinis-kaledu-eglutes-stovas</g:id>
+      <title>Apvalus plastikinis Kalėdų eglutės stovas</title>
+      <description>Apvalus plastikinis Kalėdų eglutės stovas Labai stabilus Kalėdų eglutės stovas, puikiai tinkantis vertinantiems kompaktišką dizainą ir paprastą surinkimą. Jis leidžia stabiliai įtvirtinti net didelę eglutę, tam nereikia daug pastangų. Į stovą galima įpilti vandens arba pripilti smėlio – tai paded...</description>
+      <link>https://vaivora.shop/apvalus-plastikinis-kaledu-eglutes-stovas</link>
+      <g:image_link>https://cdn.zyrosite.com/cdn-ecommerce/store_01KCA8JHSZQX53KW2ZPYV0J8DD/assets/35765201-03d4-4d81-94c1-cc6a10d4c562.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>17.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
